@@ -164,7 +164,3 @@ O retreino usa o dataset processado, dados suplementares confiáveis e candidato
 ```
 
 Os testes cobrem normalização, processamento, divisão de dados e regras principais do backend.
-
-## Observação importante
-
-Este é um projeto acadêmico/experimental. Priorize fontes verificáveis e a Google Fact Check API quando houver chave configurada. O modelo local serve como fallback e sempre deve ser interpretado com cautela.
