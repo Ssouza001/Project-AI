@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "factcheck-data-pipeline"
+version = "0.1.0"
+description = "Data pipeline for fact-check dataset collection, cleaning, splitting and baseline training."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "joblib>=1.4",
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "scikit-learn>=1.9,<2.0",
+  "Flask>=3.0",
+  "requests>=2.31",
+  "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+collect = ["factcheckexplorer @ git+https://github.com/GONZOsint/factcheckexplorer.git"]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+factcheck-data = "factcheck_data_pipeline.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "01-Projeto IA/test_backend.py"]
+addopts = "-q"

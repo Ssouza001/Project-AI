@@ -1,0 +1,149 @@
+{
+  "source_tool": "factcheckexplorer",
+  "language": "pt",
+  "num_results_per_keyword": 250,
+  "collected_at": "2026-06-03T00:40:15.274424+00:00",
+  "keywords": [
+    {
+      "keyword": "eleição",
+      "file_name": "query_eleicao.csv",
+      "row_count": 250
+    },
+    {
+      "keyword": "bolsonaro",
+      "file_name": "query_bolsonaro.csv",
+      "row_count": 250
+    },
+    {
+      "keyword": "lula",
+      "file_name": "query_lula.csv",
+      "row_count": 250
+    },
+    {
+      "keyword": "pt",
+      "file_name": "query_pt.csv",
+      "row_count": 250
+    },
+    {
+      "keyword": "campanha",
+      "file_name": "query_campanha.csv",
+      "row_count": 70
+    },
+    {
+      "keyword": "urna",
+      "file_name": "query_urna.csv",
+      "row_count": 250
+    },
+    {
+      "keyword": "voto",
+      "file_name": "query_voto.csv",
+      "row_count": 50
+    },
+    {
+      "keyword": "fraude",
+      "file_name": "query_fraude.csv",
+      "row_count": 20
+    },
+    {
+      "keyword": "voto impresso",
+      "file_name": "query_voto_impresso.csv",
+      "row_count": 42
+    },
+    {
+      "keyword": "voto impresso simone tebet",
+      "file_name": "query_voto_impresso_simone_tebet.csv",
+      "row_count": 12
+    },
+    {
+      "keyword": "voto impresso deputados distrito federal",
+      "file_name": "query_voto_impresso_deputados_distrito_federal.csv",
+      "row_count": 1
+    },
+    {
+      "keyword": "pec voto impresso",
+      "file_name": "query_pec_voto_impresso.csv",
+      "row_count": 6
+    },
+    {
+      "keyword": "segundo turno",
+      "file_name": "query_segundo_turno.csv",
+      "row_count": 19
+    },
+    {
+      "keyword": "eleicoes 2024",
+      "file_name": "query_eleicoes_2024.csv",
+      "row_count": 9
+    },
+    {
+      "keyword": "eleicoes municipais 2024 voto",
+      "file_name": "query_eleicoes_municipais_2024_voto.csv",
+      "row_count": 1
+    },
+    {
+      "keyword": "tudo sobre eleicoes municipais 2024",
+      "file_name": "query_tudo_sobre_eleicoes_municipais_2024.csv",
+      "row_count": 6
+    },
+    {
+      "keyword": "campanha bolsonaro",
+      "file_name": "query_campanha_bolsonaro.csv",
+      "row_count": 20
+    },
+    {
+      "keyword": "camisa candidato eleicoes",
+      "file_name": "query_camisa_candidato_eleicoes.csv",
+      "row_count": 6
+    },
+    {
+      "keyword": "camisa candidato dia eleicao",
+      "file_name": "query_camisa_candidato_dia_eleicao.csv",
+      "row_count": 5
+    },
+    {
+      "keyword": "camiseta candidato eleicao",
+      "file_name": "query_camiseta_candidato_eleicao.csv",
+      "row_count": 3
+    },
+    {
+      "keyword": "usar camisa candidato eleicao",
+      "file_name": "query_usar_camisa_candidato_eleicao.csv",
+      "row_count": 6
+    },
+    {
+      "keyword": "exercito niteroi eleicoes",
+      "file_name": "query_exercito_niteroi_eleicoes.csv",
+      "row_count": 1
+    },
+    {
+      "keyword": "lula estudantes universidade",
+      "file_name": "query_lula_estudantes_universidade.csv",
+      "row_count": 19
+    },
+    {
+      "keyword": "universidade estudantes lula",
+      "file_name": "query_universidade_estudantes_lula.csv",
+      "row_count": 15
+    },
+    {
+      "keyword": "verdadeiro",
+      "file_name": "query_verdadeiro.csv",
+      "row_count": 22
+    },
+    {
+      "keyword": "correto lula",
+      "file_name": "query_correto_lula.csv",
+      "row_count": 16
+    },
+    {
+      "keyword": "e verdade voto impresso",
+      "file_name": "query_e_verdade_voto_impresso.csv",
+      "row_count": 28
+    },
+    {
+      "keyword": "comprovado bolsonaro",
+      "file_name": "query_comprovado_bolsonaro.csv",
+      "row_count": 2
+    }
+  ],
+  "errors": []
+}

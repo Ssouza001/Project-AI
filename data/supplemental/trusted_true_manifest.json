@@ -1,0 +1,145 @@
+{
+  "source_tool": "trusted_true_sources",
+  "created_at": "2026-06-12T16:51:07.518072+00:00",
+  "output_csv": "data\\supplemental\\trusted_true_news.csv",
+  "total_records": 194,
+  "source_pages": [
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Maio/eleicoes-2026-testes-confirmam-mais-uma-vez-a-seguranca-do-sistema-eleitoral-brasileiro",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "urna_eletronica_seguranca",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-conheca-a-ordem-de-votacao-na-urna-eletronica",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "votacao",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Janeiro/confira-quais-cargos-estarao-em-disputa-nas-eleicoes-2026",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "votacao_cargos",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Abril/por-dentro-das-eleicoes-conheca-as-regras-sobre-uso-de-ia-na-campanha-eleitoral-de-2026",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "campanha_regras_ia",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/tse-lanca-pagina-com-informacoes-sobre-eleicoes-2026",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "servico_eleitoral",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-confira-as-principais-datas-do-calendario-eleitoral",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "calendario_eleitoral",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Janeiro/urna-eletronica-entenda-como-o-equipamento-transformou-o-processo-eleitoral-brasileiro",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "urna_eletronica",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-760-de-2-de-marco-de-2026",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "calendario_eleitoral",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/tse-faz-novos-testes-de-seguranca-na-urna-eletronica",
+      "publisher": "Agência Brasil",
+      "topic": "urna_eletronica_seguranca",
+      "records": "12",
+      "status": "ok"
+    },
+    {
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/eleicoes-2026-financiamento-coletivo-de-campanha-comeca-nesta-sexta",
+      "publisher": "Agência Brasil",
+      "topic": "campanha_financiamento",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/tse-aprova-regras-para-eleicoes-de-outubro",
+      "publisher": "Agência Brasil",
+      "topic": "regras_eleitorais",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/prazo-para-tirar-ou-regularizar-titulo-de-eleitor-termina-nesta-quarta",
+      "publisher": "Agência Brasil",
+      "topic": "titulo_eleitor",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/eleicoes-2026-eleitor-pode-se-inscrever-para-ser-mesario-voluntario",
+      "publisher": "Agência Brasil",
+      "topic": "mesario",
+      "records": "14",
+      "status": "ok"
+    },
+    {
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/desafio-do-tse-e-conter-uso-ilegal-de-ia-na-eleicao-diz-nunes-marques",
+      "publisher": "Agência Brasil",
+      "topic": "campanha_regras_ia",
+      "records": "14",
+      "status": "ok"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Maio/eleicoes-2026-teste-de-confirmacao-comeca-nesta-quarta-13-e-valida-melhorias-nos-sistemas-eleitorais",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "urna_eletronica_seguranca",
+      "error": "RemoteDisconnected: Remote end closed connection without response"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/tse-aprova-calendario-eleitoral-e-regulamenta-uso-de-ia-nas-eleicoes-2026",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "calendario_regras_campanha",
+      "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Maio/30-anos-da-urna-eletronica-eleicoes-2024-foram-o-maior-pleito-informatizado-do-mundo",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "urna_eletronica",
+      "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Abril/eleicoes-2026-codigos-fonte-dos-sistemas-eleitorais-continuam-abertos-para-inspecao",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "transparencia_auditoria",
+      "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/requisitos-tecnicos-sobre-conectividade-nas-eleicoes",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "apuracao_transmissao",
+      "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/tse-e-tres-discutem-acoes-de-seguranca-para-as-eleicoes-de-2026",
+      "publisher": "Tribunal Superior Eleitoral",
+      "topic": "seguranca_eleitoral",
+      "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
+    }
+  ],
+  "labeling_rule": "Sentenças extraídas de fontes institucionais ou jornalísticas confiáveis foram rotuladas como true para balancear o dataset. Essa camada é suplementar e auditável, separada da coleta principal do factcheckexplorer."
+}
